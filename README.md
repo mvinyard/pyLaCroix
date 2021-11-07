@@ -7,7 +7,7 @@
 A python color palette for those that love sparkled beverages.
 
 ```
-pip install lacroixpycolors
+pip install pyLaCroix
 ```
 
 ### Key features
