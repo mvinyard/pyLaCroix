@@ -15,5 +15,6 @@ pip install pyLaCroix
 * Flexible number of colors with any choice of beverage via the colour package. 
 
 ### Notes
-
+---
 * Inspired by the [R implementation](https://github.com/johannesbjork/LaCroixColoR).
+* Color choices a la [LaCroix Flavors](https://www.lacroixwater.com/flavors/)
