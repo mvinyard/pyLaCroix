@@ -10,9 +10,17 @@ A python color palette for those that love sparkled beverages.
 pip install pyLaCroix
 ```
 
-### Key features
+### Interface
 
-* Flexible number of colors with any choice of beverage via the colour package. 
+```python
+# example use-case
+from pyLaCroix import pyLaCroix
+
+palette = pyLaCroix(n_points=5)
+palette.apricot
+```
+
+* Create a gradient with a flexible number of colors with any choice of beverage via the [colour](https://github.com/colour-science/colour) package (the only dependency). 
 
 ### Notes
 ---
